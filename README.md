@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff41&width=435&lines=Adryan+Targino)
 
-Olá, eu sou o Adryan Targino 👋
+![Computador](https://img.shields.io/badge/Computador-000000?style=for-the-badge&logo=computer&logoColor=white) Adryan Targino
 
  🚀 Sobre mim
 Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionais. Atualmente praticando lógica de programação e estilização avançada.
