@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff41&width=435&lines=Adryan+Targino)
 
-![Desktop](https://img.shields.io/badge/Desktop_PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)Adryan Targino
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJic2ZqZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1R1TVr9W5786nYv35/giphy.gif" width="50"> Adryan Targino
 
  🚀 Sobre mim
 Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionais. Atualmente praticando lógica de programação e estilização avançada.
