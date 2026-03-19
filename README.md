@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006400&width=435&lines=Adryan Targino)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Adryan+Targino)
 
 Olá, eu sou o Adryan Targino 👋
 
