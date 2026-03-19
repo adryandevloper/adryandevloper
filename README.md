@@ -1,7 +1,12 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Desenvolvedor+Front-End+em+formação;Apaixonado+por+tecnologia;Buscando+sempre+evoluir!)
+
+
 Olá, eu sou o Adryan Targino 👋
 
  🚀 Sobre mim
 Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionais. Atualmente praticando lógica de programação e estilização avançada.
+
+
  🛠️ Tecnologias que utilizo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,3 +18,5 @@ Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionai
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
