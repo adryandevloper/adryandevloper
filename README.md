@@ -2,9 +2,11 @@
 > *Buscando o melhor* 
 <h2> Adryan Targino </h2>
 
+<h1>Téc. em Desenvolviimento de Sistemas | JavaScript | HTML | CSS </h1>
+
  🚀 **Sobre mim**
  
-Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescer no ramo.
+Estudante de Desenvolvimento de Sistemas, focado em *ampliar meu conhecimento em busca de crescer no ramo*.
 
 Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e se tornar um desenvolvedor de software.
 
