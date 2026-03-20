@@ -2,7 +2,7 @@
 > *Buscando o melhor* 
 <h2> Adryan Targino </h2>
 
-<h1>Téc. em Desenvolviimento de Sistemas | JavaScript | HTML | CSS </h1>
+<h3>Téc. em Desenvolviimento de Sistemas | JavaScript | HTML | CSS </h3>
 
  🚀 **Sobre mim**
  
