@@ -28,9 +28,13 @@ Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e s
 
 <h2>Estudos</h2>
 **Estrutura de site com HTML5
+<br>
 Interações com JavaScript
+<br>
 Estilização com CSS3
+<br>
 Criação de API com Python
+<br>
 Estudando DART
 Versionamento de códigos com GIT e GITHUB
 Scrum**
