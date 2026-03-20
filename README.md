@@ -1,9 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff41&width=435&lines=Adryan+Targino)
-
+> *Buscando o melhor* 
 <h2> Adryan Targino </h2>
 
  🚀 **Sobre mim**
-Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescer no ramo
+Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescer no ramo.
+
+Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e se tornar um desenvolvedor de software.
 
 
  🛠️ Tecnologias que utilizo:
