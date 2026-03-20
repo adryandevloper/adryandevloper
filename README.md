@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff41&width=435&lines=Adryan+Targino)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"> <h1> **Adryan Targino**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"> <h3> **Adryan Targino** </h3>
 
  🚀 Sobre mim
 Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionais. Atualmente praticando lógica de programação e estilização avançada.
