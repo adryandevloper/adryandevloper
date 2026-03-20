@@ -2,8 +2,8 @@
 
 <h2> Adryan Targino </h2>
 
- 🚀 Sobre mim
-Estudante de Desenvolvimento Web focado em criar interfaces modernas e funcionais. Atualmente praticando lógica de programação e estilização avançada.
+ 🚀 **Sobre mim**
+Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescer no ramo
 
 
  🛠️ Tecnologias que utilizo:
