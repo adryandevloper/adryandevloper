@@ -6,9 +6,9 @@
 
  🚀 **Sobre mim**
  
-Estudante de Desenvolvimento de Sistemas, focado em *ampliar meu conhecimento em busca de crescer no ramo*.
+Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescimento no ramo. 
 
-Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e se tornar um desenvolvedor de software.
+Tenho interesse em criar uma base sólida, desenvolver minhas habilidades e me tornar um desenvolvedor de software.
 
 
 ### 🛠️ Tecnologias e Ferramentas
