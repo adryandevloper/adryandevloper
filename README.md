@@ -27,7 +27,7 @@ Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e s
 **Ferramentas:**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adryandevloper<br>)<br>
 <br>
 <h1><strong>📖Estudos</strong></h1>
 
