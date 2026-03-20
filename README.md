@@ -26,8 +26,8 @@ Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e s
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2>Estudos</h2>
-**Estrutura de site com HTML5
+<strong>Estudos</strong>
+Estrutura de site com HTML5
 <br>
 Interações com JavaScript
 <br>
@@ -36,5 +36,7 @@ Estilização com CSS3
 Criação de API com Python
 <br>
 Estudando DART
+<br>
 Versionamento de códigos com GIT e GITHUB
-Scrum**
+<br>
+Scrum
