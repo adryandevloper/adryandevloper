@@ -3,6 +3,7 @@
 <h2> Adryan Targino </h2>
 
  🚀 **Sobre mim**
+ 
 Estudante de Desenvolvimento de Sistemas, focado em ampliar meu conhecimento em busca de crescer no ramo.
 
 Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e se tornar um desenvolvedor de software.
