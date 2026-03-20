@@ -26,7 +26,7 @@ Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e s
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h1><strong>Estudos</strong></h1>
+<h1><strong>📖Estudos</strong></h1>
 
 Estrutura de site com HTML5
 <br>
