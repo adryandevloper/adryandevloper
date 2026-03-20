@@ -27,6 +27,7 @@ Tenho interesse em criara uma base sólida e desenvolver minhas habilidades, e s
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <strong>Estudos</strong>
+
 Estrutura de site com HTML5
 <br>
 Interações com JavaScript
